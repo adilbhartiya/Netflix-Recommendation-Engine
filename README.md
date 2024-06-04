@@ -74,6 +74,22 @@ This folder contains the trained recommendation model in a `.pkl` file format.
 
 This project was inspired by the need to provide personalized movie recommendations for users of streaming platforms, enhancing their overall viewing experience. We acknowledge the valuable insights and techniques provided by the scikit-surprise library for building robust recommendation systems.
 
+## Setup Instructions
+1. Clone the repository:
+```bash
+git clone https://github.com/adilbhartiya/Netflix-Recommendation-Engine.git
+```
+2. Navigate to the project directory:
+```bash
+cd Netflix-Recommendation-Engine
+```
+3. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Open and run 'Netflix Recommendation Engine.ipynb' in Jupyter Notebook.
+
+
 ## Conclusion
 
 This project aimed to develop a personalized recommendation engine for an OTT platform using user ratings and movie metadata. The dataset comprised user ratings and movie titles, and the primary goal was to recommend movies tailored to individual user preferences.
