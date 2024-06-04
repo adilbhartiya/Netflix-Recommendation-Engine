@@ -1,0 +1,2 @@
+**Pickle File:** [recommendation_model.pkl](https://drive.google.com/file/d/1W8ijvEtHn2nDDDiPzl-hAuMIVQcko1WZ/view?usp=drive_link)
+<pre><code>https://drive.google.com/file/d/1W8ijvEtHn2nDDDiPzl-hAuMIVQcko1WZ/view?usp=drive_link</code></pre>

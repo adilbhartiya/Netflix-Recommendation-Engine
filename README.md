@@ -1,5 +1,6 @@
-```markdown
 # Netflix Recommendation Engine
+
+## Description
 
 This project aims to develop a personalized recommendation engine for an Over-The-Top (OTT) platform or streaming service. The recommendation engine utilizes user ratings and movie metadata to suggest best-suited movies for users based on their preferences and past ratings.
 
@@ -49,9 +50,10 @@ The primary objective of the project is to develop a recommendation engine that:
 - Discuss future improvements for enhancing the recommendation engine.
 
 ## Files Included
-- `combined_data_1.txt`: Dataset containing user ratings for movies.(https://drive.google.com/file/d/1S3y2al6BoMGnL9KoXUtKuBz04ugPllDE/view?usp=drive_link)
-- `movie_titles.csv`: Dataset providing information about movies.(https://drive.google.com/file/d/1YaMSoh476KfWVR_GdjpYr8nfLZf4DdZY/view?usp=drive_link)
-- `recommendation_model.pkl`: Pickle file containing the trained recommendation model.(https://drive.google.com/file/d/1W8ijvEtHn2nDDDiPzl-hAuMIVQcko1WZ/view?usp=drive_link)
+
+- `combined_data_1.txt`: Dataset containing user ratings for movies. [Download Dataset](https://drive.google.com/file/d/1S3y2al6BoMGnL9KoXUtKuBz04ugPllDE/view?usp=drive_link)
+- `movie_titles.csv`: Dataset providing information about movies. [Download Dataset](https://drive.google.com/file/d/1YaMSoh476KfWVR_GdjpYr8nfLZf4DdZY/view?usp=drive_link)
+- `recommendation_model.pkl`: Pickle file containing the trained recommendation model. [Download Model](https://drive.google.com/file/d/1W8ijvEtHn2nDDDiPzl-hAuMIVQcko1WZ/view?usp=drive_link)
 - `README.md`: Markdown file providing an overview of the project.
 
 ## Model Folder
@@ -63,11 +65,15 @@ This folder contains the trained recommendation model in a `.pkl` file format.
 - **File**: [recommendation_model.pkl](https://drive.google.com/file/d/1W8ijvEtHn2nDDDiPzl-hAuMIVQcko1WZ/view?usp=drive_link)
 - **Description**: The trained recommendation model using the scikit-surprise library.
 
-
 ## Future Improvements
+
 - Incorporate additional features such as movie genres and user demographics.
 - Explore advanced recommendation algorithms to further enhance recommendation capabilities.
 
 ## Acknowledgments
+
 This project was inspired by the need to provide personalized movie recommendations for users of streaming platforms, enhancing their overall viewing experience. We acknowledge the valuable insights and techniques provided by the scikit-surprise library for building robust recommendation systems.
-```
+
+## Conclusion
+
+This project aimed to develop a personalized recommendation engine for an OTT platform using user ratings and movie metadata. The dataset comprised user ratings and movie titles, and the primary goal was to recommend movies tailored to individual user preferences.
